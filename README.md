@@ -101,12 +101,13 @@
   📱 Connect with me on <a href="https://wa.me/+917013796123" style="color: #0366d6; text-decoration: none;">WhatsApp</a><br>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=karthikeya03&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <br>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya03&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/03karthikeya03?theme=unicorn&font=Familjen%20Grotesk&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <h3 align="center">🚀 My Projects</h3>
