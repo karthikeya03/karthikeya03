@@ -98,7 +98,7 @@
   👨‍💻 Check out my projects on <a href="https://github.com/karthikeya03" style="color: #0366d6; text-decoration: none;">GitHub</a><br>
   🌐 Visit my <a href="https://your-portfolio-link.com" style="color: #0366d6; text-decoration: none;">Portfolio</a><br>
   📫 Reach me via <a href="mailto:saisatyakarthikeya@gmail.com" style="color: #0366d6; text-decoration: none;">Email</a><br>
-  📱 Connect with me on <a href="https://wa.me/your-whatsapp-number" style="color: #0366d6; text-decoration: none;">WhatsApp</a><br>
+  📱 Connect with me on <a href="https://wa.me/+917013796123" style="color: #0366d6; text-decoration: none;">WhatsApp</a><br>
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
