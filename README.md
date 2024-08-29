@@ -47,47 +47,47 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://github.com/karthikeya03/IMAGES/blob/JustMain/aws.png" alt="AWS" width="60" height="50" style="filter: invert(100%);" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
