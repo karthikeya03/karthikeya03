@@ -113,6 +113,8 @@
 
 <div align="center">
   <div style="width: 80%; max-width: 900px; margin: auto;">
+---
+    
 ### 🔐 **Strong Password Generator**  
 **Tech Stack**: HTML, CSS, JavaScript  
 Created a password generator supporting over 100-character passwords, including uppercase,  
