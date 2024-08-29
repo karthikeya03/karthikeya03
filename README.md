@@ -113,78 +113,56 @@
 
 <div align="center">
   <div style="width: 80%; max-width: 900px; margin: auto;">
+### 🔐 **Strong Password Generator**  
+**Tech Stack**: HTML, CSS, JavaScript  
+Created a password generator supporting over 100-character passwords, including uppercase,  
+lowercase, numbers, and special symbols. Deployed on **AWS Elastic Beanstalk** with configurations  
+stored in **AWS S3**. 500+ users secured their accounts using this generator.  
+[![AWS S3](https://img.icons8.com/color/48/000000/amazon-s3.png)](your-deployment-link-here)
 
-  ### 🔐 **Strong Password Generator**  
-  **Tech Stack**: HTML, CSS, JavaScript  
-  Created a password generator  
-  supporting over 100-character  
-  passwords, including uppercase,  
-  lowercase, numbers, and special  
-  symbols. Deployed on **AWS Elastic  
-  Beanstalk** with configurations  
-  stored in **AWS S3**. 500+ users  
-  secured their accounts using this  
-  generator.  
-  [![AWS S3](https://img.icons8.com/color/48/000000/amazon-s3.png)](your-deployment-link-here)
+---
 
-  ---
+### 🤖 **Conversational AI Bot**  
+**Tech Stack**: Deep Learning, Python, HTML, CSS, JavaScript  
+Leveraged **natural language processing** to deliver personalized responses with 86% accuracy,  
+identifying user intent and sentiment from over 15,000 datasets. Processed more than 1,000 interactions  
+daily, with responses generated in under 5 seconds.  
+[![Deep Learning](https://img.icons8.com/color/48/000000/neural-network.png)](your-project-link-here)
 
-  ### 🤖 **Conversational AI Bot**  
-  **Tech Stack**: Deep Learning, Python,  
-  HTML, CSS, JavaScript  
-  Leveraged **natural language  
-  processing** to deliver personalized  
-  responses with 86% accuracy,  
-  identifying user intent and  
-  sentiment from 15,000+ datasets.  
-  Processed over 1,000 interactions  
-  daily, with responses in under 5  
-  seconds.  
-  [![Deep Learning](https://img.icons8.com/color/48/000000/neural-network.png)](your-project-link-here)
+---
 
-  ---
+### 🎬 **Netflix Clone (Front End)**  
+**Tech Stack**: HTML, CSS, JavaScript  
+Designed an intuitive UI for a streaming platform prototype, providing seamless navigation for  
+5,000 active users. Deployed using **AWS S3** for reliable performance and availability.  
+[![AWS S3](https://img.icons8.com/color/48/000000/amazon-s3.png)](your-project-link-here)
 
-  ### 🎬 **Netflix Clone (Front End)**  
-  **Tech Stack**: HTML, CSS, JavaScript  
-  Designed an intuitive UI for a  
-  streaming platform prototype with  
-  5,000 active users enjoying seamless  
-  navigation. Deployed using **AWS S3**.  
-  [![AWS S3](https://img.icons8.com/color/48/000000/amazon-s3.png)](your-project-link-here)
+---
 
-  ---
+### 📺 **YouTube Clone (Front End)**  
+**Tech Stack**: HTML, CSS, JavaScript  
+Developed a responsive interface for over 50 videos and channels, ensuring smooth navigation and  
+dynamic content display for 5,000 users. Designed to mimic a user-friendly experience similar to  
+YouTube.  
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](your-project-link-here)
 
-  ### 📺 **YouTube Clone (Front End)**  
-  **Tech Stack**: HTML, CSS, JavaScript  
-  Developed a responsive interface  
-  for 50+ videos and channels, with  
-  smooth navigation and dynamic  
-  content display for 5,000 users.  
-  [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](your-project-link-here)
+---
 
-  ---
+### 🎟️ **Full Stack Movie Booking Site**  
+**Tech Stack**: HTML, CSS, JavaScript, DynamoDB  
+Created dynamic listings for 15+ movies with features for booking and show selection. Integrated  
+**DynamoDB** for efficient management of bookings and user authentication. Designed to handle high  
+traffic and large numbers of bookings seamlessly.  
+[![DynamoDB](https://img.icons8.com/color/48/000000/amazon-dynamodb.png)](your-project-link-here)
 
-  ### 🎟️ **Full Stack Movie Booking Site**  
-  **Tech Stack**: HTML, CSS, JavaScript,  
-  DynamoDB  
-  Dynamic listings for 15+ movies with  
-  booking and show selection.  
-  Integrated **DynamoDB** for managing  
-  bookings and user authentication.  
-  [![DynamoDB](https://img.icons8.com/color/48/000000/amazon-dynamodb.png)](your-project-link-here)
+---
 
-  ---
-
-  ### 🛒 **Full Stack Amazon Web Application**  
-  **Tech Stack**: HTML, CSS, JavaScript,  
-  DynamoDB  
-  Dynamic product listings for 100+  
-  items, integrated with **DynamoDB**  
-  for transaction handling and user  
-  data storage. Supports 50 concurrent  
-  users for a smooth shopping  
-  experience.  
-  [![Amazon](https://img.icons8.com/color/48/000000/amazon.png)](your-project-link-here)
+### 🛒 **Full Stack Amazon Web Application**  
+**Tech Stack**: HTML, CSS, JavaScript, DynamoDB  
+Built dynamic product listings for over 100 items, integrated with **DynamoDB** for handling transactions  
+and user data storage. Supports 50 concurrent users, providing a smooth and responsive shopping experience.  
+Designed to handle high user engagement and ensure data consistency.  
+[![Amazon](https://img.icons8.com/color/48/000000/amazon.png)](your-project-link-here)
 
   ---
   </div>
