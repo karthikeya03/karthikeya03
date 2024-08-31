@@ -1410,8 +1410,8 @@ main {
 
 @media (max-width: 480px) {
   .leetcode-image {
-      max-width: 150px; /* Further adjustment for very small screens */
-      max-height: 75px; /* Further adjustment for very small screens */
+      max-width: 500px; /* Further adjustment for very small screens */
+      max-height1: 200px; /* Further adjustment for very small screens */
   }
 }
 
@@ -1450,7 +1450,7 @@ main {
   }
 
   #hackerrank-stats img {
-      max-width: 100px; /* Further adjustment for smaller screens */
+      max-width: 600px; /* Further adjustment for smaller screens */
   }
 }
 
@@ -1464,7 +1464,8 @@ main {
   }
 
   #hackerrank-stats img {
-      max-width: 80px; /* Further adjustment for small screens */
+      max-width: 300px;
+      max-height: 100px; /* Further adjustment for small screens */
   }
 }
 
@@ -1487,8 +1488,8 @@ main {
 
 @media (max-width: 480px) {
   .codechef-image {
-      max-width: 150px; /* Further adjustment for very small screens */
-      max-height: 75px; /* Further adjustment for very small screens */
+      max-width: 550px; /* Further adjustment for very small screens */
+      max-height: 305px; /* Further adjustment for very small screens */
   }
 }
 
@@ -1609,7 +1610,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   /**
    * client
    */
+.testimonials h4 .testimonials-item-title{
+  /* margin-right: 100px; */
+  margin-right: -10px;
+  /* text-align: center; */
 
+}
   .clients-item { min-width: calc(33.33% - 10px); }
 
 
@@ -2255,5 +2261,4 @@ textarea.form-input::-webkit-resizer { display: none; }
 .testimonials-item-title{
   display: flex;
   position: relative;
-  right: 95px;
 }
