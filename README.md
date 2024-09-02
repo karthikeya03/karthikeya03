@@ -114,6 +114,7 @@
 
 <div align="center">
   <div style="width: 80%; max-width: 900px; margin: auto;">
+    
 ---
     
 ### 🔐 **Strong Password Generator**  
